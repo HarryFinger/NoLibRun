@@ -1,5 +1,5 @@
 # NoLibRun
-No library execution on the example of "Hello, world" program. Assembler inserts were used.
+No library execution."Hello, world" program as example. Assembler inserts were used.
 
 
 Compiling, linking and runing:
