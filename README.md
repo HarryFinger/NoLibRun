@@ -9,6 +9,6 @@ ld -m elf_i386 syscall-32.o prog.o -o work
 
 *.o files are temporary  
 
-in Linux:
+in Linux:  
 ldd [FILE] (to view dependencies)  
 strace -o LOG ./[FILE] (to view system calls)
